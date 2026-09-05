@@ -1,0 +1,3 @@
+MySQL database: campusconnect
+The application creates/updates tables automatically with JPA (spring.jpa.hibernate.ddl-auto=update).
+For production, use migrations and secure admin authentication.
